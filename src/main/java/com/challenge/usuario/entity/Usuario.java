@@ -1,4 +1,4 @@
-package com.challenge.Usuario.entity;
+package com.challenge.usuario.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
